@@ -2,5 +2,6 @@
 phpinfo();
 
 function test1() {
-    $one = 'this is mys first commit111';
+    $one = 'this is mys first commit222';
 }
+
