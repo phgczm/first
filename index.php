@@ -9,3 +9,8 @@ function test2()
 {
 
 }
+
+function test0719()
+{
+
+}
