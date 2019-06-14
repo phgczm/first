@@ -1,0 +1,8 @@
+{
+  "require": {
+    "monolog/monolog": "^1.24.0",
+    "firstphp/icelog": "1.0",
+    "firstphp/chuanglan-sms": "^1.2"
+  }
+}
+//111
