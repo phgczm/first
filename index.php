@@ -18,4 +18,4 @@ $msg = (new ChuanglanSmsService('lafdu83d', 'db123lafdu8'));
 $res = $msg->sendSms('18368028231', 12313);
 var_dump($res);
 
-//111222333
+//11122233344
